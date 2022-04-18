@@ -3,7 +3,7 @@
 Dataset https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420
 
 Hypothesis:
-A Pokemons Type will affect its Stats. 
+A Pokemons Type will affect its Stats, And there are certain types that are must haves for your team. 
 
 Question:
 What is the Pokemon Dream Team to beat the game?
