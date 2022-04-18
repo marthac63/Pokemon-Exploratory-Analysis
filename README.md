@@ -1,4 +1,4 @@
-# PokemonProject
+# Pokemon Pokedex Analysis
 
 Dataset https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420
 
