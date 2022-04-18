@@ -2,7 +2,13 @@
 
 Dataset https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420
 
-What is Pokemon?
+Hypothesis:
+A Pokemons Type will affect its Stats. 
+
+Question:
+What is the Pokemon Dream Team to beat the game?
+
+So - What is Pokemon?
 Pokemon is a video that is adored by people young and old. It is actually the highest grossing media franchise of all time - beating Hello Kitty, Marvel and Star Wars all by BILLIONS of dollars!
 
 For anyone unfamilar with the game, According to Wikipedia: In Pokémon, humans, known as Pokémon Trainers, catch and train Pokémon to battle other Pokémon for sport.
